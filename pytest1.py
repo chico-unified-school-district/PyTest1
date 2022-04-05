@@ -1,3 +1,3 @@
 python3 --version
-print('yay!)
+print('yay!')
 print('done.')
